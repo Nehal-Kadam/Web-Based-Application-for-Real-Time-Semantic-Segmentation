@@ -1,0 +1,10 @@
+{
+  "name": "steep-segment-aerial-images-tile",
+  "version": "1.0.0",
+  "description": "Split an image into tiles",
+  "main": "tile.js",
+  "private": true,
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
